@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_CuaHangAnVat", "WF_CuaHangAnVat\WF_CuaHangAnVat.csproj", "{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{C60E7119-44BE-46CE-863C-B6BB222B0397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60E7119-44BE-46CE-863C-B6BB222B0397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60E7119-44BE-46CE-863C-B6BB222B0397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60E7119-44BE-46CE-863C-B6BB222B0397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60E7119-44BE-46CE-863C-B6BB222B0397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F62C7E-8923-4DA5-BD54-2828A6C5D34A}
+	EndGlobalSection
+EndGlobal

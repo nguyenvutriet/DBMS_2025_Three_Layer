@@ -1,0 +1,819 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|d:\\hcmute_it\\hk2_2024-2025\\database management system\\baocao_dbms_nhom9\\wf_cuahanganvat\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\hoadonchitietdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\hoadonchitietdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\hoadonchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\thongtinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\thongtinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\thongtinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\thongtinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\dbconnectionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\dbconnectionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\nhacungcapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\nhacungcapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\doanhthudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\doanhthudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\danhmucdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\danhmucdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\dangkydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\dangkydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\khuyenmaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\khuyenmaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\loaisanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\loaisanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\all_user_control\\uc_discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\all_user_control\\uc_discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\dangkybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\dangkybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\danhmucbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\danhmucbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\wf_cuahanganvat\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858BAB1-E641-4DED-A0FF-D98C885FC5E2}|WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj|solutionrelative:wf_cuahanganvat\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WF_CuaHangAnVat||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\doanhthubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\doanhthubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\khuyenmaibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\khuyenmaibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\bll\\loaisanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E7119-44BE-46CE-863C-B6BB222B0397}|BLL\\BLL.csproj|solutionrelative:bll\\loaisanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED82EE4-D906-4B06-8BD9-31E1A0DD1875}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DAL\\DBConnection.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\DBConnection.cs",
+              "RelativeToolTip": "DAL\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:47:39.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Register.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Register.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Register.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Register.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:33:11.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThongTinCT.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\ThongTinCT.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\ThongTinCT.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\ThongTinCT.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\ThongTinCT.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:16:47.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongTinCT.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\ThongTinCT.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\ThongTinCT.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\ThongTinCT.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\ThongTinCT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:49:54.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Form1.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\Form1.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Form1.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:02:31.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Form1.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\Form1.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Form1.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\Form1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAWwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:02:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DangKyDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\DangKyDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DangKyDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\DangKyDAL.cs",
+              "RelativeToolTip": "DAL\\DangKyDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:53:41.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDonChiTietDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\HoaDonChiTietDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HoaDonChiTietDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\HoaDonChiTietDAL.cs",
+              "RelativeToolTip": "DAL\\HoaDonChiTietDAL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:51:50.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_Receipt.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Receipt.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Receipt.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Receipt.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Receipt.cs",
+              "ViewState": "AgIAAFgCAAAAAAAAAAAjwGkCAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:35:43.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UC_Type.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Type.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Type.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Type.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Type.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:35:40.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UC_Provider.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Provider.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Provider.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Provider.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Provider.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:34:19.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_Categories.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Categories.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Categories.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Categories.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Categories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:35:22.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Dashboard.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\Dashboard.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Dashboard.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:03:52.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\DangNhap.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\DangNhap.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\DangNhap.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\DangNhap.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA7wBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:12:12.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\DangNhap.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\DangNhap.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\DangNhap.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:56:55.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UC_Type.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Type.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Type.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Type.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Type.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAMwHAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:04:55.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\Dashboard.Designer.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Dashboard.Designer.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwDcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:00:31.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UC_Categories.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Categories.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Categories.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Categories.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Categories.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAjwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:49:35.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Program.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\Program.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Program.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:47:35.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UC_Provider.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Provider.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Provider.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Provider.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Provider.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:31:51.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_Product.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Product.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Product.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Product.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Product.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAAP8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:25:26.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UC_Income.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Income.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Income.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Income.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Income.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vz0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:24:29.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UC_Discount.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Discount.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Discount.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Discount.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Discount.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAvwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:20:19.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Register.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Register.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Register.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Register.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Register.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAWwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:10:29.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WF_CuaHangAnVat",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj",
+              "RelativeToolTip": "WF_CuaHangAnVat\\WF_CuaHangAnVat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T11:07:29.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Dashboard.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\Dashboard.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\Dashboard.cs",
+              "RelativeToolTip": "WF_CuaHangAnVat\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:11:16.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Product.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Product.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Product.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Product.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:34:03.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_Receipt.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Receipt.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Receipt.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Receipt.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:34:47.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UC_Income.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Income.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Income.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Income.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Income.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:33:46.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UC_Discount.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Discount.cs",
+              "RelativeDocumentMoniker": "WF_CuaHangAnVat\\all_user_control\\UC_Discount.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\WF_CuaHangAnVat\\all_user_control\\UC_Discount.cs [Design]",
+              "RelativeToolTip": "WF_CuaHangAnVat\\all_user_control\\UC_Discount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:37:33.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DangKyBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\DangKyBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DangKyBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\DangKyBLL.cs",
+              "RelativeToolTip": "BLL\\DangKyBLL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:01:17.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HoaDonBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\HoaDonBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\HoaDonBLL.cs",
+              "RelativeToolTip": "BLL\\HoaDonBLL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA4wBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:57:45.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoaDonChiTietBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\HoaDonChiTietBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonChiTietBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\HoaDonChiTietBLL.cs",
+              "RelativeToolTip": "BLL\\HoaDonChiTietBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:57:19.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "KhuyenMaiBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\KhuyenMaiBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhuyenMaiBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\KhuyenMaiBLL.cs",
+              "RelativeToolTip": "BLL\\KhuyenMaiBLL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:56:52.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbConnectionBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\DbConnectionBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DbConnectionBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\DbConnectionBLL.cs",
+              "RelativeToolTip": "BLL\\DbConnectionBLL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:59:37.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DoanhThuBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\DoanhThuBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DoanhThuBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\DoanhThuBLL.cs",
+              "RelativeToolTip": "BLL\\DoanhThuBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:59:02.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DanhMucBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\DanhMucBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DanhMucBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\DanhMucBLL.cs",
+              "RelativeToolTip": "BLL\\DanhMucBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:00:52.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoaiSanPhamBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\LoaiSanPhamBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\LoaiSanPhamBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\LoaiSanPhamBLL.cs",
+              "RelativeToolTip": "BLL\\LoaiSanPhamBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:55:58.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NhaCungCapBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\NhaCungCapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhaCungCapBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\NhaCungCapBLL.cs",
+              "RelativeToolTip": "BLL\\NhaCungCapBLL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAywCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:55:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SanPhamBLL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\SanPhamBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\SanPhamBLL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\SanPhamBLL.cs",
+              "RelativeToolTip": "BLL\\SanPhamBLL.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAjwDkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:54:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DanhMucDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\DanhMucDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DanhMucDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\DanhMucDAL.cs",
+              "RelativeToolTip": "DAL\\DanhMucDAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:53:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoanhThuDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\DoanhThuDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DoanhThuDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\DoanhThuDAL.cs",
+              "RelativeToolTip": "DAL\\DoanhThuDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:52:30.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HoaDonDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\HoaDonDAL.cs",
+              "RelativeToolTip": "DAL\\HoaDonDAL.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAjwC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:51:13.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhuyenMaiDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\KhuyenMaiDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhuyenMaiDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\KhuyenMaiDAL.cs",
+              "RelativeToolTip": "DAL\\KhuyenMaiDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:50:37.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoaiSanPhamDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\LoaiSanPhamDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\LoaiSanPhamDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\LoaiSanPhamDAL.cs",
+              "RelativeToolTip": "DAL\\LoaiSanPhamDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:49:44.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NhaCungCapDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\NhaCungCapDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NhaCungCapDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\NhaCungCapDAL.cs",
+              "RelativeToolTip": "DAL\\NhaCungCapDAL.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:49:11.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SanPhamDAL.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\SanPhamDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\SanPhamDAL.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\SanPhamDAL.cs",
+              "RelativeToolTip": "DAL\\SanPhamDAL.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAjwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:48:29.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:43:59.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\HCMUTE_IT\\HK2_2024-2025\\Database Management System\\BaoCao_DBMS_Nhom9\\WF_CuaHangAnVat\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:43:46.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
